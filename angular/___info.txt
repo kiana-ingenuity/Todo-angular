@@ -1,0 +1,6 @@
+1- firebase
+2- https://jsonplaceholder.typicode.com/
+
+
+npm install -g json-server
+json-server --watch ./src/app/data.json

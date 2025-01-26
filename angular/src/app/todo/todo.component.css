@@ -1,0 +1,28 @@
+.mat-card{
+    margin: auto;
+    width: 95%;
+    background-color: #424242;
+    margin-top: 40px;
+}
+.mat-form-field{
+    margin-left: 30px;
+}
+.mat-flat-button{
+    margin-left: 20px;
+}
+.divButton{
+    margin-bottom: 10px;
+}
+
+table {
+    width: 95%;
+    margin: auto;
+}
+  
+.mat-column-Status {
+    flex: none;
+    width: 100px;}
+  
+  td, th {
+    width: 25%;
+  }
